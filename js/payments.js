@@ -166,4 +166,3 @@ function show_sroffers()
 	html+="</div>";
 	$('body').append(html);
 }
-
